@@ -1,0 +1,13 @@
+F:\task-manager\backend\src\main\java\com\example\taskmanager\controller\TaskController.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\entity\Task.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\security\JwtFilter.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\security\JwtUtil.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\config\SecurityConfig.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\controller\AuthController.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\entity\Project.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\repository\UserRepository.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\entity\User.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\entity\Comment.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\repository\TaskRepository.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\TaskManagerApplication.java
+F:\task-manager\backend\src\main\java\com\example\taskmanager\config\WebSocketConfig.java

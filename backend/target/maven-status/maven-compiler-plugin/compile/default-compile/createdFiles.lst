@@ -1,0 +1,15 @@
+com\example\taskmanager\config\WebSocketConfig.class
+com\example\taskmanager\controller\TaskController.class
+com\example\taskmanager\entity\Project.class
+com\example\taskmanager\security\JwtUtil.class
+com\example\taskmanager\controller\AuthController.class
+com\example\taskmanager\TaskManagerApplication.class
+com\example\taskmanager\entity\Task.class
+com\example\taskmanager\entity\User.class
+com\example\taskmanager\repository\UserRepository.class
+com\example\taskmanager\controller\AuthController$RegisterRequest.class
+com\example\taskmanager\security\JwtFilter.class
+com\example\taskmanager\config\SecurityConfig.class
+com\example\taskmanager\controller\AuthController$AuthRequest.class
+com\example\taskmanager\repository\TaskRepository.class
+com\example\taskmanager\entity\Comment.class
